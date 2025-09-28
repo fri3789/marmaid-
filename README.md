@@ -32,7 +32,7 @@
 <body>
 
     <!-- 画像ボタン（例: 実際の画像URLに置き換え） -->
-    <img id="register-btn" src="https://via.placeholder.com/200x50?text=登録ボタン" alt="登録ボタン">
+    <img id="register-btn" src="https://via.placeholder.com/200x50?text=登録ボタン](https://www.dropbox.com/scl/fi/sm7zxk4d4s1kie8bisei2/.jpg?rlkey=ib8ng6v41acc4094oejikz7u5&st=pae7cw45&dl=1" alt="登録ボタン">
 
     <!-- ステータス選択モーダル -->
     <div id="status-modal" class="modal">
